@@ -7,9 +7,9 @@
 ## PORT=5000 
 ## MONGO_URL="mongodb://localhost:27017/chat"
 
-## Установить Node на сервер
+## Установить Node Модули на сервер
 
-## Установить Node на сервер
+## Установить Node Модули на Клиент
 
 ## В директории сервера в файле .env сменить значение MongoDB на свой MongoDB connection URL
 
